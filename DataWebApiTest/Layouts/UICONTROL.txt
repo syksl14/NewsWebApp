@@ -1,0 +1,10 @@
+﻿UIControl nesnesinin tasarım dosyaları tutulmalıdır.
+Örnek:
+Layouts/MemberLogin.json
+
+UIControl object of design files should be kept.
+Example:
+Layouts/MemberLogin.json
+--------------------------------
+Link:
+http://framework.selahattinyuksel.net/Documentation/Article/9/asp-net-taglari/Document/23/syuicontrol.html

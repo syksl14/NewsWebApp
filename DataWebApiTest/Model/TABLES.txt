@@ -1,0 +1,10 @@
+﻿Bu klasörde tabloların sınıf örneği tutulmalıdır.
+Örneğin:
+Model/Members.cs
+
+class example of the table in this folder should be kept.
+Example:
+Model/Members.cs
+------------------------------
+Link:
+http://framework.selahattinyuksel.net/Documentation/Article/8/diger-veritabani-islemleri/Document/15/veri-ekleme-islemi.html
