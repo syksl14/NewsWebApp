@@ -20,4 +20,4 @@ To import the database instance, there is script.sql in the root folder of the p
 
 - You can add and edit news.
 
-- News list and source reading
+- News list and web site source reading
